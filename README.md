@@ -2,6 +2,9 @@
 
 👋 Olá! Eu sou Carolina, uma entusiasta da programação e atualmente estudo Java. Tenho conhecimento em linguagem Python e sou certificada pela Oracle no curso Java Foundation. Além disso, possuo conhecimentos em AZ 900 implementação de serviços na nuvem e Power BI. Estou sempre em busca de aprender mais e expandir minhas habilidades na área de desenvolvimento de software. 
 
+
+Vamos nos conectar e compartilhar conhecimento!
+
 <!--
 **c4rolsantiago93/C4Rolsantiago93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
